@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>
+    <color name="white_grey">#A6A6A6</color>
+    <color name="actionbar_color">#C4E386</color>
+    <color name="black">#000000</color>
+    <color name="tab_title_normal_color">#7E7E7E</color>
+    <color name="tab_title_pressed_color">#16982b</color>
+    <color name="tab_middle_line_color">#C7C7C7</color>
+    <color name="tab_bottom_line_color">#45BE45</color>
+
+</resources>
